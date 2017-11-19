@@ -87,3 +87,12 @@ Speaker Spotlight Series Extra Credit | 5/5
 TOTAL: 100/100 -- Great job!
 ```
 <br>
+
+<br>
+
+### Project Proposal [100/100]
+```
+Feedback provided on slack.
+```
+
+<br>
