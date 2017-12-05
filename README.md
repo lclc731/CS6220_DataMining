@@ -86,13 +86,39 @@ Speaker Spotlight Series Extra Credit | 5/5
 
 TOTAL: 100/100 -- Great job!
 ```
+
 <br>
+
+### Assignment 6 [95/100]
+```
+Implementation [55/60] lack of multiple features implementation
+Question1 [20/20]
+Question2 [20/20]
+```
+
+<br>
+
+### Assignment 7 [100/100]
+```
+1. 20/20
+2. 20/20
+3. 20/20
+4. 20/20
+5. 20/20
+```
 
 <br>
 
 ### Project Proposal [100/100]
 ```
 Feedback provided on slack.
+```
+
+<br>
+
+### Project Presentation [95/100]
+```
+Very good job, guys! In particular, I was a big fan of your plots and the overall design of your presentation. You're certainly on the right track to writing a great paper as well. I made a few comments at the end of your presentation mostly related to questions I had about the dataset and your choice of deleting certain features. Make sure to cover those on your paper and explain in detail why you made those choices. If you can highlight with examples that training those models without deleting those bits of information you deleted produces worse results, it would make for an even stronger argument. Other than that, great job so far! I hope you're having fun with this project and that it is allowing you to see how the techniques you learned can be readily applied to real problems such as this one.
 ```
 
 <br>
