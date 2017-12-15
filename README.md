@@ -122,3 +122,16 @@ Very good job, guys! In particular, I was a big fan of your plots and the overal
 ```
 
 <br>
+
+### Project Paper [88/100]
+```
+* Very nice plots throughout! Great job generating and describing them.
+
+* It's not immediately clear to me why you only verified the performance of decision trees and random forests. Was there some indication that non-tree based models did not perform well on your dataset?
+
+* A couple of important things that I was hoping to see in your paper were missing: 
+(1) A more solid conclusion wrapping up the lessons you learned, what you think could be done next, and how you anticipate your work could be used in practice. I didn't see much on that end.
+(2) A more thorough evaluation of your classification models. You only used one metric to evaluate your models (simple accuracy), though a lot of what we talked about portrayed that as a metric that is less than ideal. Your paper would have been a lot more solid if you had included a more complete coverage of this aspect with artifacts such as ROC curves, classification reports, confusion matrices, etc.
+```
+
+<br>
